@@ -1,2 +1,7 @@
 # go-yandex-market
-Библиотека для чтения данных, переданных в формате Yandex Market Language
+
+The goal of this library is reading of Yandex Market Language.
+
+The library is not ready yet.
+
+Current state: entities are described.
